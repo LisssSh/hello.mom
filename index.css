@@ -1,0 +1,9 @@
+h1 {
+    font-size: 30px;
+    color: blue;
+}
+button {
+    font-size: 30px;
+    block-size: 50px;
+    block-color: red;
+}
